@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(246, 255, 255);
+}
+
+
+.container{
+    margin-top: 100px;
+    justify-content: center;
+    color: rgb(78, 82, 82);
+}
+
+.generate-container{
+    background-color: white;
+}
+
+.generate-container h3{ 
+    padding-top: 50px;
+}
+
+.generate-container textarea{
+    font-family: monospace;
+    font-size:15px;
+    margin-top: 20px;
+    border: dashed 4px rgb(78, 82, 82);
+}
+
+
+.btn-danger{
+    border-radius: 40px;
+    background-color: transparent;
+    color: rgb(197, 0, 0);
+}
+
+#gen-pass{
+    margin-left: 124px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
